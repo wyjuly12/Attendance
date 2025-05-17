@@ -1,0 +1,92 @@
+.entry-form {
+    margin: 100px auto;
+    width: 50%;
+}
+
+.form-status {
+    margin: 0px auto;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+.form-date {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.form-time {
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+.form-button {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.button-start {
+    width: 20%;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.button-finsh {
+    width: 20%;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.button-break_start {
+    width: 20%;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.button-break_finsh {
+    width: 20%;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.form-message {
+    margin-top: 50px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}

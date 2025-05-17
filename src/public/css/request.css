@@ -1,0 +1,38 @@
+.request-content {
+    margin: 100px auto;
+    width: 80%;
+}
+
+.content-select {
+    border-bottom: 2px solid gray;
+    margin-bottom: 50px;
+}
+
+.content-select span {
+    margin: 0px 20px;
+}
+
+.content-table {
+    width: 100%;
+    background-color: white;
+}
+
+.table-label {
+    font-weight: bold;
+    color: gray;
+}
+
+.table-line {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.table-data {
+    text-align: center;
+    color: gray;
+}
+
+.table-data a {
+    color: gray;
+    text-decoration: none;
+}
